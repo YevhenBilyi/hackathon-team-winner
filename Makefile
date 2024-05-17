@@ -1,4 +1,4 @@
-NAME   := gcr.io/timatal1-198022/app-template
+NAME   := gcr.io/timatal1-198022/noonaNordar
 
 GOBIN ?= $(shell go env GOBIN)
 

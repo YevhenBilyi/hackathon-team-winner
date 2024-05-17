@@ -1,6 +1,6 @@
 package store
 
-import "github.com/noona-hq/app-template/store/entity"
+import "github.com/noona-hq/noonaNordar/store/entity"
 
 type Store interface {
 	CreateUser(user entity.User) error

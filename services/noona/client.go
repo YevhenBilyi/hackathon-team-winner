@@ -3,7 +3,7 @@ package noona
 import (
 	"context"
 
-	"github.com/noona-hq/app-template/utils"
+	"github.com/noona-hq/noonaNordar/utils"
 	noona "github.com/noona-hq/noona-sdk-go"
 	"github.com/pkg/errors"
 )

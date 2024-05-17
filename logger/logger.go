@@ -1,7 +1,7 @@
 package logger
 
 import (
-	"github.com/noona-hq/app-template/config"
+	"github.com/noona-hq/noonaNordar/config"
 	"go.uber.org/zap"
 )
 

@@ -1,8 +1,8 @@
 package noona
 
 import (
-	"github.com/noona-hq/app-template/logger"
-	"github.com/noona-hq/app-template/store"
+	"github.com/noona-hq/noonaNordar/logger"
+	"github.com/noona-hq/noonaNordar/store"
 	noona "github.com/noona-hq/noona-sdk-go"
 	"github.com/pkg/errors"
 )

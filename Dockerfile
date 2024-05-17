@@ -14,7 +14,7 @@ RUN make install
 
 
 FROM alpine:latest
-COPY --from=build /go/bin/app-template ./
+COPY --from=build /go/bin/noonaNordar ./
 COPY --from=build /build/server/templates/html ./server/templates/html
 
-ENTRYPOINT ["./app-template"]
+ENTRYPOINT ["./noonaNordar"]

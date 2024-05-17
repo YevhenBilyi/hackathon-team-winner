@@ -9,10 +9,10 @@ import (
 	"time"
 
 	"github.com/golang-jwt/jwt"
-	"github.com/noona-hq/app-template/logger"
-	"github.com/noona-hq/app-template/services/noona"
-	"github.com/noona-hq/app-template/store"
-	"github.com/noona-hq/app-template/store/entity"
+	"github.com/noona-hq/noonaNordar/logger"
+	"github.com/noona-hq/noonaNordar/services/noona"
+	"github.com/noona-hq/noonaNordar/store"
+	"github.com/noona-hq/noonaNordar/store/entity"
 	noonasdk "github.com/noona-hq/noona-sdk-go"
 	"github.com/pkg/errors"
 )

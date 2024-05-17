@@ -5,7 +5,7 @@ import (
 	"io"
 
 	"github.com/labstack/echo/v4"
-	"github.com/noona-hq/app-template/logger"
+	"github.com/noona-hq/noonaNordar/logger"
 )
 
 func NewRenderer(l logger.Logger) *TemplateRenderer {

@@ -1,9 +1,9 @@
 package server
 
 import (
-	"github.com/noona-hq/app-template/db"
-	"github.com/noona-hq/app-template/logger"
-	"github.com/noona-hq/app-template/services/noona"
+	"github.com/noona-hq/noonaNordar/db"
+	"github.com/noona-hq/noonaNordar/logger"
+	"github.com/noona-hq/noonaNordar/services/noona"
 )
 
 type Config struct {

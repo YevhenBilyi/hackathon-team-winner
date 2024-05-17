@@ -1,4 +1,4 @@
-module github.com/noona-hq/app-template
+module github.com/noona-hq/noonaNordar
 
 go 1.20
 

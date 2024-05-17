@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	"github.com/noona-hq/app-template/config"
-	"github.com/noona-hq/app-template/logger"
-	"github.com/noona-hq/app-template/server"
+	"github.com/noona-hq/noonaNordar/config"
+	"github.com/noona-hq/noonaNordar/logger"
+	"github.com/noona-hq/noonaNordar/server"
 )
 // main function
 

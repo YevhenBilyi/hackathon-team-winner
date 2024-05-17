@@ -1,10 +1,10 @@
 package services
 
 import (
-	"github.com/noona-hq/app-template/logger"
-	"github.com/noona-hq/app-template/services/core"
-	"github.com/noona-hq/app-template/services/noona"
-	"github.com/noona-hq/app-template/store"
+	"github.com/noona-hq/noonaNordar/logger"
+	"github.com/noona-hq/noonaNordar/services/core"
+	"github.com/noona-hq/noonaNordar/services/noona"
+	"github.com/noona-hq/noonaNordar/store"
 	"github.com/pkg/errors"
 )
 

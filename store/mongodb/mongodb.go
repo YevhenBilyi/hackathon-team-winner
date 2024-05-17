@@ -6,9 +6,9 @@ import (
 
 	"github.com/chidiwilliams/flatbson"
 	"github.com/dchest/uniuri"
-	"github.com/noona-hq/app-template/db"
-	"github.com/noona-hq/app-template/store"
-	"github.com/noona-hq/app-template/store/entity"
+	"github.com/noona-hq/noonaNordar/db"
+	"github.com/noona-hq/noonaNordar/store"
+	"github.com/noona-hq/noonaNordar/store/entity"
 	"github.com/pkg/errors"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo/options"
