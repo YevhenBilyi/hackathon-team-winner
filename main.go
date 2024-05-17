@@ -7,6 +7,7 @@ import (
 	"github.com/noona-hq/app-template/logger"
 	"github.com/noona-hq/app-template/server"
 )
+// main function
 
 func main() {
 	cfg := new(server.Config)
